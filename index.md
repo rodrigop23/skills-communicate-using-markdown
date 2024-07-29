@@ -27,4 +27,9 @@ def sum(x:number, y:number):
 print('Result', sum(1, 2))
 ```
 
+# This is a task list test
+- [X] First item
+- [ ] Second item
+- [ ] Third item
+
 this is a test using markdown
